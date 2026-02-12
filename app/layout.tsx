@@ -50,7 +50,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://ccm-uganda.org",
+    url: "https://www.charityforchildrensministry.org",
     title: "Charity for Children's Ministry (CCM)",
     description: "Dedicated to uplifting vulnerable children for a brighter future.",
     siteName: "Charity for Children's Ministry",
