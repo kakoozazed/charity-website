@@ -115,7 +115,7 @@ export default function Programs() {
   const [hoveredShowcase, setHoveredShowcase] = useState<number | null>(null);
 
   return (
-    <section id="programs" className="relative py-24 overflow-hidden">
+    <section id="gallery" className="relative py-24 overflow-hidden">
       {/* Background remains the same */}
       <div className="absolute inset-0 bg-gradient-to-br from-slate-50 via-white to-slate-50" />
 
