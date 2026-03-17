@@ -140,7 +140,7 @@ export default function Header() {
                 <span className="hidden xs:inline">Kasese, Uganda</span>
                 <span className="xs:hidden">Kasese</span>
                 <span className="h-1 w-1 rounded-full bg-white/40" />
-                <span>Est. 2010</span>
+                <span>Est. 2021</span>
               </div>
             </div>
           </a>
