@@ -325,7 +325,7 @@ export default function Programs() {
               </div>
               <div className="text-center group">
                 <div className="text-3xl lg:text-4xl font-black mb-1 bg-gradient-to-br from-green-600 to-emerald-600 bg-clip-text text-transparent">
-                  2010
+                  2021
                 </div>
                 <div className="text-xs font-medium text-gray-500 uppercase tracking-wider">
                   Founded

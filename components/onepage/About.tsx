@@ -93,7 +93,7 @@ export default function About() {
                       CCM
                     </span>
                     <span className="text-white/70 text-xs">
-                      Since 2010
+                      Since 2021
                     </span>
                   </div>
                 </div>
@@ -127,7 +127,7 @@ export default function About() {
                       <div className="flex items-center gap-2 text-white/70 text-sm">
                         <span>Making hope visible</span>
                         <span className="w-1 h-1 rounded-full bg-white/70" />
-                        <span>Est. 2010</span>
+                        <span>Est. 2021</span>
                       </div>
                     </div>
                   </footer>
@@ -304,7 +304,7 @@ export default function About() {
                     className="object-cover opacity-50"
                   />
                 </div>
-                <span>Serving since 2010 • 500+ children supported</span>
+                <span>Serving since 2021 • 500+ children supported</span>
               </div>
             </div>
           </div>
